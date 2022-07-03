@@ -4,12 +4,19 @@
 #include <iostream>
 using namespace std; //This will allow us to write cout, cin, endl, etc. instead of std::cout, std::cin, std::endl respectively.
 
+void askOS() {
+    #ifdef _WIN32 //Ask for the OS
+        system("pause");
+    #endif
+}
+
 int main() {    
     int number; //Int variable
 
     cout << "Enter an integer: ";
     cin >> number;
+    cout << "You entered " << number << "!" << endl; 
 
-    cout << "You entered " << number << "!" << endl;    
+    askOS();   
     return 0;
 }
