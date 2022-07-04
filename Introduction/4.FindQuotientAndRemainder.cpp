@@ -21,7 +21,7 @@ int main() {
     quotient = dividend / divisor; //The division operator / computes the quotient (either between float or integer variables).
     remainder = dividend % divisor; //The modulus operator % computes the remainder when one integer is divided by another (modulus operator cannot be used for floating-type variables).
 
-    cout << "Quotient = " << quotient << endl;
+    cout << endl << "Quotient = " << quotient << endl;
     cout << "Remainder = " << remainder << endl;
 
     askOS();
