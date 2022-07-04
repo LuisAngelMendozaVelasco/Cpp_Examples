@@ -5,6 +5,12 @@
 #include <iostream>
 using namespace std;
 
+void askOS() {
+    #ifdef _WIN32 //Ask for the OS
+        system("pause");
+    #endif
+}
+
 int main() {
   int first_number, second_number, sum;
     
@@ -21,5 +27,6 @@ int main() {
   // Print result
   cout << first_number << " + " <<  second_number << " = " << sum << endl;     
 
+  askOS(); 
   return 0;
 }
