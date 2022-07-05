@@ -26,5 +26,6 @@ int main() {
     else
         cout << "\"" << c << "\" is a consonant!" << endl;
 
+    askOS();
     return 0;
 }
