@@ -6,9 +6,9 @@
 using namespace std;
 
 void askOS() {
-    #ifdef _WIN32 //Ask for the OS
-        system("pause");
-    #endif
+  #ifdef _WIN32 //Ask for the OS
+    system("pause");
+  #endif
 }
 
 int main() {
