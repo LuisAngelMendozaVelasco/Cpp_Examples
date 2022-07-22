@@ -75,7 +75,11 @@ int main() {
             cout << endl;
         }
         break;
-    }
+
+    default:
+        cout << "\nIncorrect option!" << endl;
+        break;
+    }        
 
     askOS();
     return 0;
