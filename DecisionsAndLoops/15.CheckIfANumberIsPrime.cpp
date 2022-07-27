@@ -3,7 +3,7 @@ For example: 13 is a prime number because it is only divisible by 1 and 13 but,
 15 is not prime number because it is divisible by 1, 3, 5 and 15.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

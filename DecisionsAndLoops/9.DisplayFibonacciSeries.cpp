@@ -2,7 +2,7 @@
 The first two terms of the Fibonacci sequence is 0 followed by 1.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

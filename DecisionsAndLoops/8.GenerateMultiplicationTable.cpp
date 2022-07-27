@@ -2,7 +2,7 @@
 This program computes the multiplication table up to 10 only.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

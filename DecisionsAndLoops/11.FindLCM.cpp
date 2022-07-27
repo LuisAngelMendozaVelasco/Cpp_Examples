@@ -1,7 +1,7 @@
 //LCM of two integers a and b is the smallest positive integer that is divisible by both a and b.
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

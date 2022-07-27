@@ -6,7 +6,7 @@ For example, 153 is an Armstrong number because:
 
 #include <cmath>
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

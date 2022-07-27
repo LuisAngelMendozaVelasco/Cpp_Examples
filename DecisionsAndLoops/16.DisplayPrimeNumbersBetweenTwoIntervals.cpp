@@ -1,7 +1,7 @@
 //Example to print all prime numbers between two numbers (entered by the user)
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

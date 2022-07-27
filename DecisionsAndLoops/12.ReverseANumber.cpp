@@ -4,7 +4,7 @@ In each iteration, the remainder when the value of n is divided by 10 is calcula
 reversed_number is computed and the value of n is decreased 10 fold.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

@@ -5,7 +5,7 @@ In this program below, the user is asked to enter a positive integer.
 Then the factorial of that number is computed and displayed on the screen.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

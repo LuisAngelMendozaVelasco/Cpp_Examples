@@ -1,7 +1,7 @@
 //Examples to print half pyramid, pyramid, inverted pyramid, Pascal's Triangle and Floyd's triangle
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

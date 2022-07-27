@@ -2,7 +2,7 @@
 This program takes a positive integer from user (suppose user entered n) then, this program displays the value of 1+2+3+....+n.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

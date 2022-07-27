@@ -3,7 +3,7 @@ To check whether an integer is even or odd, the remainder is calculated when it 
 If the remainder is zero, that integer is even if not that integer is odd.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

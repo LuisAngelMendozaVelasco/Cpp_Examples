@@ -1,7 +1,7 @@
 //This program takes a positive integer from an user and displays all the factors of that number.
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

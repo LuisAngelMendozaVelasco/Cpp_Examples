@@ -3,7 +3,7 @@ Power of a number = base^exponent*/
 
 #include <iostream>
 #include <cmath>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

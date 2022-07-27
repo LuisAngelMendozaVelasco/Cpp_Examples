@@ -2,7 +2,7 @@
 on those two operands depending upon the operator entered by the user.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

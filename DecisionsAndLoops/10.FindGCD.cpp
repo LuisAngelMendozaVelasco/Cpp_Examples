@@ -3,7 +3,7 @@ The largest integer which can perfectly divide two integers is known as GCD or H
 For example, the GCD of 4 and 10 is 2 since it is the largest integer that can divide both 4 and 10.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

@@ -3,7 +3,7 @@ Five alphabets a, e, i, o and u are known as vowels. All other alphabets except 
 This program assumes that the user will always enter an alphabet.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {
