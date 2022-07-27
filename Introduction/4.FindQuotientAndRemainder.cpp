@@ -2,13 +2,8 @@
 //To compute quotient and remainder, both divisor and dividend should be integers.
 
 #include <iostream>
+#include "../myFunctions.h"
 using namespace std;
-
-void askOS() {
-    #ifdef _WIN32 //Ask for the OS
-        system("pause");
-    #endif
-}
 
 int main() {    
     int divisor, dividend, quotient, remainder;

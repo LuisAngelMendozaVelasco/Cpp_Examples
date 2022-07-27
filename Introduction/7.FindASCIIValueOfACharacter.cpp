@@ -4,13 +4,8 @@ For example, ASCII value of 'A' is 65.
 What this means is that, if you assign 'A' to a character variable, 65 is stored in that variable rather than 'A' itself.*/
 
 #include <iostream>
+#include "../myFunctions.h"
 using namespace std;
-
-void askOS() {
-    #ifdef _WIN32 //Ask for the OS
-        system("pause");
-    #endif
-}
 
 int main() {
     char c;

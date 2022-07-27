@@ -3,13 +3,8 @@
 //Then, the variables are added using the + operator and stored in the sum variable.
 
 #include <iostream>
+#include "../myFunctions.h"
 using namespace std;
-
-void askOS() {
-  #ifdef _WIN32 //Ask for the OS
-    system("pause");
-  #endif
-}
 
 int main() {
   int first_number, second_number, sum;

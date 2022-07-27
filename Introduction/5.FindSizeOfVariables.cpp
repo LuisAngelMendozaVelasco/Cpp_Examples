@@ -2,13 +2,8 @@
 //Then, the size of each variable is evaluated using sizeof operator.
 
 #include <iostream>
+#include "../myFunctions.h"
 using namespace std;
-
-void askOS() {
-    #ifdef _WIN32 //Ask for the OS
-        system("pause");
-    #endif
-}
 
 int main() {    
     cout << "Size of char: " << sizeof(char) << " byte" << endl;

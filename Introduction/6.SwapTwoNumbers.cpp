@@ -4,13 +4,8 @@ The contents of the first variable is copied into the temp variable. Then, the c
 Finally, the contents of the temp variable is copied back to the second variable which completes the swapping process.*/
 
 #include <iostream>
+#include "../myFunctions.h"
 using namespace std;
-
-void askOS() {
-    #ifdef _WIN32 //Ask for the OS
-        system("pause");
-    #endif
-}
 
 int main() {
     int a = 5, b = 10, temp;

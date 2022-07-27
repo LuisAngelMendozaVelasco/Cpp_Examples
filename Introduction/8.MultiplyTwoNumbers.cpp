@@ -2,13 +2,8 @@
 Then, the product of those two numbers is stored in a variable and displayed on the screen.*/
 
 #include <iostream>
+#include "../myFunctions.h"
 using namespace std;
-
-void askOS() {
-    #ifdef _WIN32 //Ask for the OS
-        system("pause");
-    #endif
-}
 
 int main() {
     double num1, num2, product;
