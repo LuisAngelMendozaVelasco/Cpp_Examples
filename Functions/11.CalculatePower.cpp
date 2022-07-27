@@ -1,7 +1,7 @@
 //This program calculates the power of a number using recursion where base and exponent is entered by the user.
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int calculatePower(int, int);

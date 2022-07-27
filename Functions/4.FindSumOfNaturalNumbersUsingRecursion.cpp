@@ -2,7 +2,7 @@
 A function that calls itself is known as a recursive function. And, this technique is known as recursion.*/
 
 #include<iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int add(int n);

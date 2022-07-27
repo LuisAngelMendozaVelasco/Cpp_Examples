@@ -3,7 +3,7 @@ If the number can be expressed as the sum of two prime numbers, the output shows
 To perform this task, a user-defined function is created to check prime number.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 bool check_prime(int n);

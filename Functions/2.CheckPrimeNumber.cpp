@@ -1,7 +1,7 @@
 //Check whether a number entered by the user is prime or not by passing it to a user-defined function.
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 bool check_prime(int);

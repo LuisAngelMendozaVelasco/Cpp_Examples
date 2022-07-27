@@ -1,7 +1,7 @@
 //Example to find factorial of a non-negative integer (entered by the user) using recursion.
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 unsigned long factorial(int n);

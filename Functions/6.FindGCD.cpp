@@ -1,7 +1,7 @@
 //This program takes two positive integers from user and calculates GCD using recursion.
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int hcf(int n1, int n2);

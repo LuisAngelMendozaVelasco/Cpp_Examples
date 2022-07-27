@@ -2,7 +2,7 @@
 
 #include <iostream>
 #include <cmath>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int convertBinarytoOctal(long long);

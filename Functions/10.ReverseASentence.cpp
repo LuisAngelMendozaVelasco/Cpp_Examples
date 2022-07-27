@@ -2,7 +2,7 @@
 This program does not use string to reverse the sentence or store the sentence.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 //A reference to a string object whose contents will not be changed. To pass a string by reference, you use the data type string&.

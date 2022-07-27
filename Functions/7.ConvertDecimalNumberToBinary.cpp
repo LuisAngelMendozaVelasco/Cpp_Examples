@@ -1,7 +1,7 @@
 //Convert decimal to binary
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 #include <cmath>
 using namespace std;
 
