@@ -2,7 +2,7 @@
 The size() and length() functions are just synonyms and they both do exactly same thing.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

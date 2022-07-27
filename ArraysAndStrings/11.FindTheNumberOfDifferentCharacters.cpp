@@ -1,7 +1,7 @@
 //This program takes a string object from the user and calculates the number of vowels, consonants, digits and white-spaces.
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

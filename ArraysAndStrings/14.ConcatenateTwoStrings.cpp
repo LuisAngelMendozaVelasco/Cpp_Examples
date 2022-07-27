@@ -1,7 +1,7 @@
 //Concatenate (join) two strings (string objects)
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

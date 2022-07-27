@@ -2,7 +2,7 @@
 We have used the bubble sort algorithm in this program.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

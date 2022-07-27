@@ -2,7 +2,7 @@
 stores data in an array and calculates the average of those numbers.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

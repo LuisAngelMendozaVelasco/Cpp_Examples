@@ -3,7 +3,7 @@ Then, these variables are passed to the function cyclicSwap(). Instead of passin
 When these variables are swapped in cyclic order in the cyclicSwap() function, variables a, b and c in the main function are also automatically swapped.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 void cyclicSwap(int *a, int *b, int *c);

@@ -2,7 +2,7 @@
 and stores data in an array. Then, this program displays the largest element of that array using loops.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

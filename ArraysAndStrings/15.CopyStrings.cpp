@@ -1,7 +1,7 @@
 //We can simply copy string objects in C++ using = assignment operator.
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

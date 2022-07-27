@@ -3,7 +3,7 @@ To do this, size() function is used to find the length of a string object. Then,
 In each iteration, occurrence of character is checked and if found, the value of count is incremented by 1.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

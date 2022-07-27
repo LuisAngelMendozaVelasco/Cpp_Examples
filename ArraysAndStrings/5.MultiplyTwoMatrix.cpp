@@ -2,7 +2,7 @@
 Then, the program multiplies these two matrices (if possible) and displays it on the screen.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

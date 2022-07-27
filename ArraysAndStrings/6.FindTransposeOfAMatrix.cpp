@@ -4,7 +4,7 @@ Then, the user is asked to enter elements of the matrix.
 The program computes the transpose of the matrix and displays it on the screen.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

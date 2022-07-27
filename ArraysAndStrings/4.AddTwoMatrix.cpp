@@ -4,7 +4,7 @@ The user is asked to enter elements of two matrices (of order r*c).
 Then, the program adds these two matrices, saves it in another matrix (two-dimensional array) and displays it on the screen.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

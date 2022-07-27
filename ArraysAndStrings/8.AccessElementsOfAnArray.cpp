@@ -3,7 +3,7 @@ In C++, pointers are variables that store the memory addresses of other variable
 If we have a variable var in our program, &var will give us its address in the memory.*/
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {

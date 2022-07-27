@@ -1,7 +1,7 @@
 //This program takes a string (object) input from the user and removes all characters except alphabets.
 
 #include <iostream>
-#include "myFunctions.h"
+#include "../myFunctions.h"
 using namespace std;
 
 int main() {
