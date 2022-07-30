@@ -6,11 +6,11 @@
 using namespace std;
 
 int main() {
-  string myString = "Hello";
-  
-  myString[0] = 'J';
-  cout << myString << endl;
+    string myString = "Hello";
 
-  askOS();
-  return 0;
+    myString[0] = 'J';
+    cout << myString << endl;
+
+    askOS();
+    return 0;
 }
