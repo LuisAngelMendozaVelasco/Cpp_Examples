@@ -1,4 +1,6 @@
-//Change string characters
+//////////////////////////////
+// Change string characters //
+//////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -14,3 +16,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Jello
+*/

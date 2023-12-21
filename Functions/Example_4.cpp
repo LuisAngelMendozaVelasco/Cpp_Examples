@@ -1,4 +1,6 @@
-//Parameters and arguments
+//////////////////////////////
+// Parameters and arguments //
+//////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -17,3 +19,11 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Liam Refsnes
+Jenny Refsnes
+Anja Refsnes
+*/

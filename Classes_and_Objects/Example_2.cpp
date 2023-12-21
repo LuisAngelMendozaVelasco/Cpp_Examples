@@ -1,4 +1,6 @@
-//Create multiple objects
+/////////////////////////////
+// Create multiple objects //
+/////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -29,3 +31,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+BMW X5 1999
+Ford Mustang 1969
+*/

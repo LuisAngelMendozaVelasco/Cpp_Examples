@@ -1,4 +1,6 @@
-//User input strings
+////////////////////////
+// User input strings //
+////////////////////////
 
 #include <iostream>
 #include <string>
@@ -15,3 +17,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Type your full name: Luis Mendoza
+Your name is: Luis Mendoza
+*/

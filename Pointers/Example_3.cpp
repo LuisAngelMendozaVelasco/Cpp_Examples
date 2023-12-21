@@ -1,4 +1,6 @@
-//Modify the pointer value
+//////////////////////////////
+// Modify the pointer value //
+//////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -30,3 +32,13 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Pizza
+0x7ffc31404af0
+Pizza
+Hamburger
+Hamburger
+*/

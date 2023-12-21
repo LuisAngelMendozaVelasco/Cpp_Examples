@@ -1,4 +1,6 @@
-//Compare two values
+////////////////////////
+// Compare two values //
+////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -10,3 +12,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+1
+*/

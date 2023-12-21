@@ -1,4 +1,6 @@
-//Access the memory address of a variable
+/////////////////////////////////////////////
+// Access the memory address of a variable //
+/////////////////////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -13,3 +15,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+0x7ffcf63f9890
+*/

@@ -1,4 +1,6 @@
-//Return value
+//////////////////
+// Return value //
+//////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -14,3 +16,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+8
+*/

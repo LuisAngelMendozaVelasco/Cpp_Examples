@@ -1,4 +1,6 @@
-//Add parameters to a class method
+//////////////////////////////////////
+// Add parameters to a class method //
+//////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -21,3 +23,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+200
+*/

@@ -1,4 +1,6 @@
-//Create a string type
+//////////////////////////
+// Create a string type //
+//////////////////////////
 
 #include <iostream>
 #include <string>
@@ -14,3 +16,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Hello
+Size of string: 32 bytes
+*/

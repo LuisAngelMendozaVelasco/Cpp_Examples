@@ -1,4 +1,6 @@
-//Do while loop
+///////////////////
+// Do while loop //
+///////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -16,3 +18,13 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+0
+1
+2
+3
+4
+*/

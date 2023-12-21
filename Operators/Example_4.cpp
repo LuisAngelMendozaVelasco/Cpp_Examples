@@ -1,4 +1,6 @@
-//Addition assignment operator
+//////////////////////////////////
+// Addition assignment operator //
+//////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -13,3 +15,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+15
+*/

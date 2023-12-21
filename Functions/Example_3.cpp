@@ -1,4 +1,6 @@
-//Function declaration and definition
+/////////////////////////////////////////
+// Function declaration and definition //
+/////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -19,3 +21,9 @@ int main() {
 void myFunction() {
     cout << "I just got executed!" << endl;
 }
+
+/*
+Output:
+
+I just got executed!
+*/

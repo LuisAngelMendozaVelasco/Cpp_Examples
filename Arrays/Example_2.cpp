@@ -1,4 +1,6 @@
-//Change an array element
+/////////////////////////////
+// Change an array element //
+/////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -14,3 +16,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Opel
+*/

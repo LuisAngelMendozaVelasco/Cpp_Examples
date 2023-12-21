@@ -1,2 +1,2 @@
-# Cpp-Examples
-Examples on basic concepts of C++
+# C++ Examples
+Examples on basic concepts of C++.

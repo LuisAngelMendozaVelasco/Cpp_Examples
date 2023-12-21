@@ -1,4 +1,6 @@
-//Create and access an array
+////////////////////////////////
+// Create and access an array //
+////////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -13,3 +15,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Volvo
+*/

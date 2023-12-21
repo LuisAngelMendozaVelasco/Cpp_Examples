@@ -1,4 +1,6 @@
-//String length
+///////////////////
+// String length //
+///////////////////
 
 #include <iostream>
 #include <string>
@@ -13,3 +15,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+The length of the txt string is: 26
+*/

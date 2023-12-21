@@ -1,4 +1,6 @@
-//Declare many variables of the same type with a comma-separated list
+/////////////////////////////////////////////////////////////////////////
+// Declare many variables of the same type with a comma-separated list //
+/////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -12,3 +14,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+61
+*/

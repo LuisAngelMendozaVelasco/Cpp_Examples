@@ -1,4 +1,6 @@
-//The switch statement
+//////////////////////////
+// The switch statement //
+//////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -34,3 +36,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Thursday
+*/

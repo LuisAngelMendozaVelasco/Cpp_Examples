@@ -1,4 +1,6 @@
-//Insert a new line with endl
+/////////////////////////////////
+// Insert a new line with endl //
+/////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -11,3 +13,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Hello World!
+I am learning C++
+*/

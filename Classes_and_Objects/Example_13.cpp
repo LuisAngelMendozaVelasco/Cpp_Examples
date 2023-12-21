@@ -1,4 +1,6 @@
-//Multiple inheritance
+//////////////////////////
+// Multiple inheritance //
+//////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -21,8 +23,7 @@ class MyOtherClass {
 };
 
 // Derived class
-class MyChildClass: public MyClass, public MyOtherClass {
-};
+class MyChildClass: public MyClass, public MyOtherClass {};
 
 int main() {
     MyChildClass myObj;
@@ -33,3 +34,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Some content in parent class.
+Some content in another class.
+*/

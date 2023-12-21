@@ -1,4 +1,6 @@
-//Call a function multiple times
+////////////////////////////////////
+// Call a function multiple times //
+////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -16,3 +18,11 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+I just got executed!
+I just got executed!
+I just got executed!
+*/

@@ -1,4 +1,6 @@
-//Multilevel inheritance
+////////////////////////////
+// Multilevel inheritance //
+////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -13,12 +15,10 @@ class MyClass {
 };
 
 // Child class
-class MyChild: public MyClass {
-};
+class MyChild: public MyClass {};
 
 // Grandchild class 
-class MyGrandChild: public MyChild {
-};
+class MyGrandChild: public MyChild {};
 
 int main() {
     MyGrandChild myObj;
@@ -28,3 +28,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Some content in parent class.
+*/

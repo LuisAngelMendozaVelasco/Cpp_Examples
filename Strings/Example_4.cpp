@@ -1,4 +1,6 @@
-//Access string characters
+//////////////////////////////
+// Access string characters //
+//////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -13,3 +15,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+H
+*/

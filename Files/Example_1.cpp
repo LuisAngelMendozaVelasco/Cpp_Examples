@@ -1,4 +1,6 @@
-//Create, write and read a text file
+////////////////////////////////////////
+// Create, write and read a text file //
+////////////////////////////////////////
 
 #include <iostream>
 #include <fstream>
@@ -31,6 +33,15 @@ int main() {
     // Close the file
     MyReadFile.close();
 
+    // Deletes the file
+    remove("filename.txt");
+
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Files can be tricky, but it is fun enough!
+*/

@@ -1,4 +1,6 @@
-//Loop through an array
+///////////////////////////
+// Loop through an array //
+///////////////////////////
 
 #include <iostream>
 #include <string>
@@ -15,3 +17,12 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Volvo
+BMW
+Ford
+Mazda
+*/

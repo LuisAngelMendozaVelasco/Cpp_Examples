@@ -1,4 +1,6 @@
-//Find the lowest value of two numbers
+//////////////////////////////////////////
+// Find the lowest value of two numbers //
+//////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -10,3 +12,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+5
+*/

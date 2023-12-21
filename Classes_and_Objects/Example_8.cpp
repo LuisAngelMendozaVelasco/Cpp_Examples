@@ -1,14 +1,16 @@
-//Constructor defined outside the class
+///////////////////////////////////////////
+// Constructor defined outside the class //
+///////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
 using namespace std;
 
-class Car {        // The class
-    public:          // Access specifier
-        string brand;  // Attribute
-        string model;  // Attribute
-        int year;      // Attribute
+class Car {             // The class
+    public:             // Access specifier
+        string brand;   // Attribute
+        string model;   // Attribute
+        int year;       // Attribute
         Car(string x, string y, int z); // Constructor declaration
 };
 
@@ -31,3 +33,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+BMW X5 1999
+Ford Mustang 1969
+*/

@@ -1,4 +1,6 @@
-//A demonstration of different data types
+/////////////////////////////////////////////
+// A demonstration of different data types //
+/////////////////////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -25,3 +27,14 @@ int main () {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+int: 5
+float: 5.99
+double: 9.98
+char: D
+bool: 1
+string: Hello
+*/

@@ -1,4 +1,6 @@
-//Assign a new value to an existing value (this will overwrite the previous value)
+//////////////////////////////////////////////////////////////////////////////////////
+// Assign a new value to an existing value (this will overwrite the previous value) //
+//////////////////////////////////////////////////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -13,3 +15,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+10
+*/

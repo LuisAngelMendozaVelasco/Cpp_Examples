@@ -1,4 +1,6 @@
-//Default parameter value
+/////////////////////////////
+// Default parameter value //
+/////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -18,3 +20,12 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Sweden
+India
+Norway
+USA
+*/

@@ -1,4 +1,6 @@
-//Create boolean types
+//////////////////////////
+// Create boolean types //
+//////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -15,3 +17,11 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+1
+0
+Size of bool: 1 bytes
+*/

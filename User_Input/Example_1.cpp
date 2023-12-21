@@ -1,4 +1,6 @@
-//Input a number and print the result
+/////////////////////////////////////////
+// Input a number and print the result //
+/////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -10,8 +12,15 @@ int main() {
     cout << "Type a number: "; // Type a number and press enter
     cin >> x; // Get user input from the keyboard
 
-    cout << "\nYour number is: " << x << endl;
+    cout << "Your number is: " << x << endl;
 
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Type a number: 1
+Your number is: 1
+*/

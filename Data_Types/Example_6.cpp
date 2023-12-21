@@ -1,4 +1,6 @@
-//Create a char type
+////////////////////////
+// Create a char type //
+////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -13,3 +15,10 @@ int main () {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+B
+Size of char: 1 bytes
+*/

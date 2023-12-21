@@ -1,4 +1,6 @@
-//Pass an array to a function
+/////////////////////////////////
+// Pass an array to a function //
+/////////////////////////////////
 
 #include <iostream> 
 #include "../myFunctions.h" 
@@ -18,3 +20,13 @@ int main() {
     askOS();
     return 0;
 }  
+
+/*
+Output:
+
+10
+20
+30
+40
+50
+*/

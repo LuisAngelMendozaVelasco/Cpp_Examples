@@ -1,4 +1,6 @@
-//One Structure in Multiple Variables
+/////////////////////////////////////////
+// One Structure in Multiple Variables //
+/////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h" 
@@ -28,3 +30,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+BMW X5 1999
+Ford Mustang 1969
+*/

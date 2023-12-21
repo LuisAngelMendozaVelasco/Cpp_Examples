@@ -1,4 +1,6 @@
-//Create and call a function
+////////////////////////////////
+// Create and call a function //
+////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -14,3 +16,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+I just got executed!
+*/

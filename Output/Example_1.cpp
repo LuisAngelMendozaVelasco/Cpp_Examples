@@ -1,4 +1,6 @@
-//Use cout to output values/print text
+//////////////////////////////////////////
+// Use cout to output values/print text //
+//////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -10,3 +12,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Hello World!
+*/

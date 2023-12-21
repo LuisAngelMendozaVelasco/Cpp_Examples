@@ -1,4 +1,6 @@
-//While loop
+////////////////
+// While loop //
+////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -8,10 +10,20 @@ int main() {
     int i = 0;
 
     while(i < 5) {
-    cout << i << "\n";
-    i++;
+        cout << i << "\n";
+        i++;
     }
 
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+0
+1
+2
+3
+4
+*/

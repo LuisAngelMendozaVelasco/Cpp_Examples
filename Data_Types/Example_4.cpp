@@ -1,4 +1,6 @@
-//Create a double type
+//////////////////////////
+// Create a double type //
+//////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -13,3 +15,10 @@ int main () {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+19.99
+Size of double: 8 bytes
+*/

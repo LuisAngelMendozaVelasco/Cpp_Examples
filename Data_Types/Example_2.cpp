@@ -1,4 +1,6 @@
-//Create an int type
+////////////////////////
+// Create an int type //
+////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -13,3 +15,10 @@ int main () {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+1000
+Size of int: 4 bytes
+*/

@@ -1,4 +1,6 @@
-//Add a variable to another variable
+////////////////////////////////////////
+// Add a variable to another variable //
+////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -14,3 +16,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+11
+*/

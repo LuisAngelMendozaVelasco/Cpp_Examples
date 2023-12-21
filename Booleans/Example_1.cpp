@@ -1,4 +1,6 @@
-//Boolean values
+////////////////////
+// Boolean values //
+////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -14,3 +16,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+1
+0
+*/

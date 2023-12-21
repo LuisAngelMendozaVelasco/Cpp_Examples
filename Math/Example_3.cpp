@@ -1,4 +1,6 @@
-//Use the cmath header file for other math functions
+////////////////////////////////////////////////////////
+// Use the cmath header file for other math functions //
+////////////////////////////////////////////////////////
 
 #include <iostream>
 #include <cmath>
@@ -13,3 +15,11 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+8
+3
+0.693147
+*/

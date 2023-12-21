@@ -1,4 +1,6 @@
-//Insert a new line with \n
+///////////////////////////////
+// Insert a new line with \n //
+///////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -11,3 +13,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Hello World!
+I am learning C++
+*/

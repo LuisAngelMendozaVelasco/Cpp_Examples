@@ -1,4 +1,6 @@
-//Create a string
+/////////////////////
+// Create a string //
+/////////////////////
 
 #include <iostream>
 #include <string>
@@ -6,10 +8,16 @@
 using namespace std;
 
 int main() {
-    string greeting = "Hello";
+    string greeting = "Hello!";
 
     cout << greeting << endl;
 
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Hello!
+*/

@@ -1,4 +1,6 @@
-//Identifiers
+/////////////////
+// Identifiers //
+/////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -17,3 +19,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+60
+60
+*/

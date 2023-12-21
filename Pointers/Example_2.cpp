@@ -1,4 +1,6 @@
-//Get the value of a variable with the dereference operator
+///////////////////////////////////////////////////////////////
+// Get the value of a variable with the dereference operator //
+///////////////////////////////////////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -18,3 +20,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+0x7ffe7d982780
+Pizza
+*/

@@ -1,4 +1,6 @@
-//Function overloading
+//////////////////////////
+// Function overloading //
+//////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h" 
@@ -23,3 +25,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Int: 13
+Double: 10.56
+*/

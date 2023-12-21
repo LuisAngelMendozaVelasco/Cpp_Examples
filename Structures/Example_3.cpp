@@ -1,4 +1,6 @@
-//Named Structures
+//////////////////////
+// Named Structures //
+//////////////////////
 
 #include <iostream>
 #include "../myFunctions.h" 
@@ -31,3 +33,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+BMW X5 1999
+Ford Mustang 1969
+*/

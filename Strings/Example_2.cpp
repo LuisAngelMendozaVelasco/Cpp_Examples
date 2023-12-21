@@ -1,4 +1,6 @@
-//String concatenation
+//////////////////////////
+// String concatenation //
+//////////////////////////
 
 #include <iostream>
 #include <string>
@@ -6,8 +8,8 @@
 using namespace std;
  
 int main() {
-    string firstName = "John ";
-    string lastName = "Doe";
+    string firstName = "Luis ";
+    string lastName = "Mendoza";
     string fullName = firstName + lastName;
 
     cout << fullName << endl;
@@ -15,3 +17,9 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Luis Mendoza
+*/

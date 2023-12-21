@@ -1,4 +1,6 @@
-//Pass by reference
+///////////////////////
+// Pass by reference //
+///////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -26,3 +28,15 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Before swap: 
+10
+20
+
+After swap: 
+20
+10
+*/

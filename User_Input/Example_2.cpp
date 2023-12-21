@@ -1,4 +1,6 @@
-//Input two numbers and print the sum
+/////////////////////////////////////////
+// Input two numbers and print the sum //
+/////////////////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h"
@@ -19,3 +21,12 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Type a number: 1
+Type another number: 2
+
+Sum is: 3
+*/

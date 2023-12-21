@@ -1,4 +1,6 @@
-//Create a pointer variable
+///////////////////////////////
+// Create a pointer variable //
+///////////////////////////////
 
 #include <iostream>
 #include <string>
@@ -21,3 +23,11 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+Pizza
+0x7ffe95781c40
+0x7ffe95781c40
+*/

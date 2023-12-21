@@ -1,4 +1,6 @@
-//Access Structure Members
+//////////////////////////////
+// Access Structure Members //
+//////////////////////////////
 
 #include <iostream>
 #include "../myFunctions.h" 
@@ -22,3 +24,10 @@ int main() {
     askOS();
     return 0;
 }
+
+/*
+Output:
+
+1
+Hello World!
+*/
